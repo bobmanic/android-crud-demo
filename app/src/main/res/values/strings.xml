@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">crud-demo</string>
+    <string name="title_on_main_page">List of Students</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="name">Name</string>
+    <string name="name_hint">enter student name</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="rollno">Roll Number</string>
+    <string name="rollno_hint">enter student roll no</string>
+    <string name="add_button_text">add</string>
+    <string name="refresh_button_text">refresh</string>
+</resources>
